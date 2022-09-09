@@ -9,7 +9,8 @@ type Props = {
 export const TestimonialWrapper = styled.div`
 
 position:relative;
-padding-bottom:5rem;
+padding-bottom: 5rem;
+margin-bottom: 5rem;
 
 `
 export const Inner = styled.div<Props>`
